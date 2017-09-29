@@ -1,0 +1,2 @@
+# template
+NodeJS hapi template
